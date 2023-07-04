@@ -1,0 +1,6 @@
+#dependecies
+/node_modules
+
+#miscs
+.DS_Store
+.env
